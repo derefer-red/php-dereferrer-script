@@ -40,6 +40,6 @@ div.about a {
 <body>
  <h1>Dereferrer Service</h1>
 	<p>This is a private dereferrer Service. Go run your own!</p>
-	<div class="about">Get the <a href="http://www.naden.de/blog/derefer-script">Derefer Script</a></div>
+	<div class="about">Get the <a href="https://web.archive.org/web/20160809045059/http://www.naden.de/blog/derefer-script">Derefer Script</a></div>
 </body>
 </html>
