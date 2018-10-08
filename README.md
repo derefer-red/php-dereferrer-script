@@ -15,4 +15,4 @@ __Example__
 
 [https://derefer.red/?https://www.derefer.red]( https://derefer.red/?https://www.derefer.red)
 
-*For a more detailed explanation have a look at this blogpost [Derefer Script]( http://www.naden.de/blog/derefer-script).*
+*For a more detailed explanation have a look at this blogpost [Derefer]( https://www.derefer.red) [Script]( https://web.archive.org/web/20160809045059/http://www.naden.de/blog/derefer-script).*
